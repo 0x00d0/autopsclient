@@ -7,8 +7,8 @@ import logging
 
 Params = {
 
-    "server": "192.168.31.241",
-    "port": 8000,
+    "server": "autops服务端地址",
+    "port": autops服务端端口,
     "url": "/assets/report/",
     "request_timeout": 30,
 
